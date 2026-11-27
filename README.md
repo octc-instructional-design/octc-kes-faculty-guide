@@ -68,7 +68,7 @@ Use this quick reference while you review or update a course. For the official w
 ### Course design
 
 - **1.1 Module student learning outcomes.** Tell students what they’ll be able to do by the end of each module, unit, section, or learning experience. These Student Learning Outcomes describe what students will learn in that part of the course. Connect them to the Course Learning Outcomes, which describe what students should be able to do by the end of the whole course.
-- **1.4 Manageable units.** Break the material into units or modules students can work through in manageable pieces.
+- **1.4 Organize by learning experience.** Organize the course into learning modules or experiences that students can work through one at a time. For example, a Week 2 module can gather the reading, slides, practice, and quiz for that topic in the order students need them. Keep reference folders if they’re useful, and give students a clear path through the work in each module.
 - **1.8 Why It Matters.** Add a short “Why It Matters” statement that puts the material in context. Tell students why they’re learning it, how it fits into the course, and where they might use it. For example, “You’ll practice reading a route map now so you can plan and explain your own route in the final project.”
 - **1.9 Clear directions for working through content.** Tell students how to use the materials and what to do next. A unit introduction can point them to what to read, watch, or practice.
 - **1.13 Alternatives and assistive tools.** Plan ways for students to access the content, such as a transcript, or make sure students who need assistive tools can use them.
