@@ -9,7 +9,7 @@ The KCTCS Essential Standards (KES) describe 21 minimum expectations for online 
 1. **Review your own course during initial KES training.** Use the standards to see what’s easy for students to find and use. Revisit the standards as you make changes, such as adding a module or revising a major assignment.
 2. **A volunteer peer reviewer looks at a sample of your course.** The OCTC KOLA administrator verifies the findings and prepares the report.
 3. **Use your report to plan updates.** Start with the corrections section. Each correction points to a location, explains what the reviewer verified, and gives you a way to check your update. The full checklist shows the result for each standard.
-4. **Request re-review when the course is ready.** Reply to the email that came with your report. You can use the same reply to ask for instructional design help as you work through the updates.
+4. **Request re-review as soon as your course is ready.** If the fixes are quick, make them right away and reply to your report email to request re-review. If the updates need more time, plan for re-review the following semester, or the next semester you offer the course online. You can also reply to ask for instructional design help.
 
 ## Examples of course updates
 
