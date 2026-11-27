@@ -2,7 +2,7 @@
 
 The KCTCS Essential Standards (KES) describe 21 minimum expectations for online courses. They cover course design, interaction and collaboration, assessment, and learner support. Use this guide to prepare for an OCTC course review, work through feedback, or check a course after you update it.
 
-[Open the KCTCS Essential Standards Guide in SharePoint](https://kctcs.sharepoint.com/sites/KCTCSOnline/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FKCTCSOnline%2FShared%20Documents%2FDownload%20Copy_KCTCS%20Essential%20Standards%20Guide.pdf) using your KCTCS account.
+[Open the KCTCS Essential Standards page](https://kctcs.sharepoint.com/sites/KCTCSOnline/SitePages/KCTCS-Essential-Standards.aspx) using your KCTCS account.
 
 ## How course review works at OCTC
 
