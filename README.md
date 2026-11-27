@@ -23,7 +23,14 @@ Whether you call it a module, week, section, or unit, give students an overview 
 
 ### Improve course accessibility
 
-For OCTC review, aim for an overall accessibility score of **at least 85% with zero red indicators**. If you see a red indicator, fix the issue and check the score again. We encourage **90% or higher** so the course has room to stay above the minimum as you add or update materials.
+For OCTC review, the minimum is an overall accessibility score of **85% with zero red indicators**. We encourage **90% or higher**. Fix any red indicators and check the score again after you replace or update files.
+
+Start with these common fixes.
+
+- **Scanned PDFs.** Try selecting or searching for a word in the body text. If the pages are images, replace the scan with an accessible source file or run optical character recognition (OCR). Check that the recognized text is accurate, then check the document structure and reading order.
+- **Word documents.** Use Word’s built-in Title and Heading styles so students can navigate by section. Use heading levels in order. In tables, designate the first row as a header row so students can tell what each column means.
+- **Images in Word, PowerPoint, and course pages.** Add alt text that explains what an informative image contributes in that context. Mark purely decorative images as decorative where the tool supports it. For a diagram that shows a process or route, put the full explanation in nearby text.
+- **PowerPoint slides.** Use built-in layouts and their title and content placeholders. Give each slide a descriptive title and use section-header layouts where they help students follow the presentation. Check reading order and alt text, especially if you’ve added images or text boxes.
 
 ### Give students a way to share feedback
 
