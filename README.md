@@ -11,7 +11,7 @@ The KCTCS Essential Standards (KES) describe 21 minimum expectations for online 
 3. **Use your report to plan updates.** Start with the corrections section. Each correction points to a location, explains what the reviewer verified, and gives you a way to check your update. The full checklist shows the result for each standard.
 4. **Request re-review as soon as your course is ready.** If the fixes are quick, make them right away and reply to your report email to request re-review. If the updates need more time, plan for re-review the following semester, or the next semester you offer the course online. You can also reply to ask for instructional design help.
 
-## Three common course updates
+## Four common course updates
 
 ### Give each module a useful overview
 
@@ -29,6 +29,15 @@ For OCTC review, aim for an overall accessibility score of **at least 85% with z
 
 Give students a way to tell you what helps them learn and where they get stuck, both during the course and after it ends. An open feedback discussion or a short built-in survey can work during the course. Point students to an end-of-course survey or another way to share feedback after they finish. Ask about something you can act on, such as “What was hard to find or understand this week?”
 
+### Explain what earns full points on graded work (KES 3.1)
+
+When an assignment calls for your judgment, tell students what a full-credit response or submission looks like before they begin. Match the amount of detail to the task.
+
+- **Short discussion post.** A sentence may be enough. “A full-points post answers the prompt, uses one example from the reading, and explains how the example supports your point.”
+- **ENG 102 research paper.** A detailed rubric can explain how you’ll grade the argument, use of sources, organization, and citations.
+
+Share the grading information where students can find it and tell which assignments it applies to. That can be in the directions, the syllabus, an accessible attachment, or a link students can open. The Blackboard rubric tool is optional.
+
 ## Examples of course updates
 
 ### 1.1 Module student learning outcomes
@@ -38,10 +47,6 @@ At the start of a module, tell students what they should be able to do by the en
 ### 1.8 Why It Matters
 
 Give students a short explanation of how the material fits into the bigger picture. For example, “You’ll practice comparing sources now so you can choose stronger evidence for your research paper.”
-
-### 3.1 How assessment work is graded
-
-Show students what earns credit before they start. Match the detail to the assignment. A research paper may need a rubric with several criteria. For a short discussion, one sentence can work. “A full-points post answers the prompt, uses one example from the reading, and explains how the example supports your point.” Shared grading criteria in the syllabus can meet the standard when students can find them and tell which assignments they cover.
 
 ### 1.16 Accessible pages and media
 
