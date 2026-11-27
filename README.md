@@ -11,6 +11,24 @@ The KCTCS Essential Standards (KES) describe 21 minimum expectations for online 
 3. **Use your report to plan updates.** Start with the corrections section. Each correction points to a location, explains what the reviewer verified, and gives you a way to check your update. The full checklist shows the result for each standard.
 4. **Request re-review as soon as your course is ready.** If the fixes are quick, make them right away and reply to your report email to request re-review. If the updates need more time, plan for re-review the following semester, or the next semester you offer the course online. You can also reply to ask for instructional design help.
 
+## Three common course updates
+
+### Give each module a useful overview
+
+Whether you call it a module, week, section, or unit, give students an overview with three things.
+
+- **Learning outcomes.** What should students be able to do by the end of this part of the course?
+- **Instructional guidance.** What should students read, watch, or do, and in what order?
+- **Why It Matters.** How does this work connect to a course goal, a later assignment, or something students will do outside class?
+
+### Improve course accessibility
+
+For OCTC review, aim for an overall accessibility score of **at least 85% with zero red indicators**. If you see a red indicator, fix the issue and check the score again. We encourage **90% or higher** so the course has room to stay above the minimum as you add or update materials.
+
+### Give students a way to share feedback
+
+Give students a way to tell you what helps them learn and where they get stuck, both during the course and after it ends. An open feedback discussion or a short built-in survey can work during the course. Point students to an end-of-course survey or another way to share feedback after they finish. Ask about something you can act on, such as “What was hard to find or understand this week?”
+
 ## Examples of course updates
 
 ### 1.1 Module student learning outcomes
